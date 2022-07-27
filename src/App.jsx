@@ -20,7 +20,7 @@ const App = () => {
       <div className='bg-green-200 rounded-xl w-min p-2 absolute bottom-3 right-4 hover:animate-bounce '>
         {/* absoluto(摆脱白色，搭配relative) */}
         
-        <Icon icon="bxs:shopping-bag-alt" className='text-slate-800 w-6 h-6 '/>
+        <a href=''><Icon icon="bxs:shopping-bag-alt" className='text-slate-800 w-6 h-6 '/></a>
         
         </div>
       </div>
